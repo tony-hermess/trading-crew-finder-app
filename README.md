@@ -4,4 +4,4 @@ Questo repository contiene **solo i file compilati** dell'app, pubblicati su Git
 Nessun codice sorgente, nessuna credenziale e **nessun dato**: i setup restano esclusivamente
 nel browser del dispositivo di chi usa l'app (IndexedDB).
 
-Build generata dal commit sorgente `b5579cb`.
+Build generata dal commit sorgente `05f14ad`.
